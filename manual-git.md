@@ -32,4 +32,3 @@
 ![Инструкция создана на языке разметки Markdown](../Markdown.jpg)
 
 [Cсылка на ДЗ в GitHut](https://github.com/Basilio-One/Weekend-1/blob/master/index.html "Домашнее задание")
-
